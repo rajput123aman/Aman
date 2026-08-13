@@ -22,7 +22,7 @@ public:
                 TreeNode* node = q.front();
                 q.pop();
 
-                // Position decide karo
+      
                 int index;
 
                 if (leftToRight)
@@ -41,7 +41,7 @@ public:
 
             ans.push_back(level);
 
-            // Direction change
+     
             leftToRight = !leftToRight;
         }
 

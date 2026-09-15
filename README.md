@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajput123aman/Aman/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/rajput123aman/Aman/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajput123aman/Aman/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/rajput123aman/Aman/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajput123aman/Aman/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/rajput123aman/Aman/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/rajput123aman/Aman/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/rajput123aman/Aman/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajput123aman/Aman/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajput123aman/Aman/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/rajput123aman/Aman/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

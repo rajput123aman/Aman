@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rajput123aman/Aman/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/rajput123aman/Aman/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/rajput123aman/Aman/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/rajput123aman/Aman/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajput123aman/Aman/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajput123aman/Aman/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/rajput123aman/Aman/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/rajput123aman/Aman/tree/master/1732-find-the-highest-altitude) |
 ## Tree
 |  |
 | ------- |

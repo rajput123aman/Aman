@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rajput123aman/Aman/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/rajput123aman/Aman/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/rajput123aman/Aman/tree/master/1480-running-sum-of-1d-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajput123aman/Aman/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,5 +68,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/rajput123aman/Aman/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/rajput123aman/Aman/tree/master/0172-factorial-trailing-zeroes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajput123aman/Aman/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/rajput123aman/Aman/tree/master/2652-sum-multiples) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajput123aman/Aman/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajput123aman/Aman/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajput123aman/Aman/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

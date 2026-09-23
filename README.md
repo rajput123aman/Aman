@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajput123aman/Aman/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/rajput123aman/Aman/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajput123aman/Aman/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajput123aman/Aman/tree/master/0209-minimum-size-subarray-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajput123aman/Aman/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/rajput123aman/Aman/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rajput123aman/Aman/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajput123aman/Aman/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/rajput123aman/Aman/tree/master/0645-set-mismatch) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rajput123aman/Aman/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

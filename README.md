@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajput123aman/Aman/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajput123aman/Aman/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rajput123aman/Aman/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/rajput123aman/Aman/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/rajput123aman/Aman/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/rajput123aman/Aman/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/rajput123aman/Aman/tree/master/1480-running-sum-of-1d-array) |

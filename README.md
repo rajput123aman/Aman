@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rajput123aman/Aman/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajput123aman/Aman/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/rajput123aman/Aman/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rajput123aman/Aman/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajput123aman/Aman/tree/master/0424-longest-repeating-character-replacement) |
 | [0645-set-mismatch](https://github.com/rajput123aman/Aman/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/rajput123aman/Aman/tree/master/0904-fruit-into-baskets) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajput123aman/Aman/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/rajput123aman/Aman/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/rajput123aman/Aman/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajput123aman/Aman/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rajput123aman/Aman/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/rajput123aman/Aman/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/rajput123aman/Aman/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rajput123aman/Aman/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/rajput123aman/Aman/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |

@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rajput123aman/Aman/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajput123aman/Aman/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rajput123aman/Aman/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/rajput123aman/Aman/tree/master/0029-divide-two-integers) |
 | [0172-factorial-trailing-zeroes](https://github.com/rajput123aman/Aman/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/rajput123aman/Aman/tree/master/0202-happy-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajput123aman/Aman/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/rajput123aman/Aman/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/rajput123aman/Aman/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/rajput123aman/Aman/tree/master/0645-set-mismatch) |
 ## Greedy

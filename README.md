@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rajput123aman/Aman/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/rajput123aman/Aman/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/rajput123aman/Aman/tree/master/0904-fruit-into-baskets) |
+| [1436-destination-city](https://github.com/rajput123aman/Aman/tree/master/1436-destination-city) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rajput123aman/Aman/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajput123aman/Aman/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/rajput123aman/Aman/tree/master/0680-valid-palindrome-ii) |
+| [1436-destination-city](https://github.com/rajput123aman/Aman/tree/master/1436-destination-city) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rajput123aman/Aman/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/rajput123aman/Aman/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/rajput123aman/Aman/tree/master/0904-fruit-into-baskets) |
+| [1436-destination-city](https://github.com/rajput123aman/Aman/tree/master/1436-destination-city) |
 | [1480-running-sum-of-1d-array](https://github.com/rajput123aman/Aman/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/rajput123aman/Aman/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajput123aman/Aman/tree/master/1979-find-greatest-common-divisor-of-array) |

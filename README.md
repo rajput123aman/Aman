@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rajput123aman/Aman/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajput123aman/Aman/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/rajput123aman/Aman/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/rajput123aman/Aman/tree/master/0495-teemo-attacking) |
 | [0560-subarray-sum-equals-k](https://github.com/rajput123aman/Aman/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/rajput123aman/Aman/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/rajput123aman/Aman/tree/master/0904-fruit-into-baskets) |
@@ -283,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rajput123aman/Aman/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/rajput123aman/Aman/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
